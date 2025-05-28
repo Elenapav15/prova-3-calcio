@@ -641,3 +641,7 @@ const SoccerApp = () => {
 
   return <div className="min-h-screen bg-gray-50">{renderView()}</div>;
 };
+git add codemagic.yaml
+git commit -m 'Add first workflow'
+git push
+
